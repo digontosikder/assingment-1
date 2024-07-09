@@ -206,9 +206,26 @@
 .y-video-section {
     text-align: center;
     padding: 32px;
-    border: 1px solid #0D132133 ;
-    border-radius:16px ;
+    border: 1px solid #0D132133;
+    border-radius: 16px;
 }
-.y-video{
-    border-radius:16px ;
+
+.y-video {
+    border-radius: 16px;
+}
+
+/* target section */
+.target-container{
+    text-align: center;
+    margin-top: 148px;
+}
+.target-title {
+    font-size: 32px;
+    font-weight: 800;
+}
+.target-discription{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #0D1321;
 }
