@@ -79,7 +79,7 @@
 
 /*       Main section      */
 .main {
-    width: 1400px;
+    width: 80%;
     margin: auto;
 }
 
@@ -179,14 +179,16 @@
 }
 
 /* inspiration section */
-.inspiration-section{
+.inspiration-section {
     margin-top: 88px;
     margin-bottom: 48px;
 }
-.inspiration-container{
+
+.inspiration-container {
     text-align: center;
-    
+
 }
+
 .inspiration-title {
     font-size: 32px;
     font-weight: 800;
@@ -198,4 +200,15 @@
     font-weight: 400;
     line-height: 26px;
     color: #0D1321;
+}
+
+/* Youtube video section  */
+.y-video-section {
+    text-align: center;
+    padding: 32px;
+    border: 1px solid #0D132133 ;
+    border-radius:16px ;
+}
+.y-video{
+    border-radius:16px ;
 }
