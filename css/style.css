@@ -215,17 +215,70 @@
 }
 
 /* target section */
-.target-container{
+.target-container {
     text-align: center;
     margin-top: 148px;
 }
+
 .target-title {
     font-size: 32px;
     font-weight: 800;
 }
-.target-discription{
+
+.target-discription {
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
     color: #0D1321;
+}
+
+/* skill section */
+.skill-container {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+
+}
+
+.skill-1 {
+    padding: 40px;
+    border-radius: 16px;
+
+    background: rgba(255, 76, 30, 0.05);
+}
+
+.skill-2 {
+    padding: 40px;
+    border-radius: 16px;
+
+    background: rgba(0, 76, 232, 0.05);
+}
+
+.skill-3 {
+    padding: 40px;
+    border-radius: 16px;
+
+    background: rgba(255, 223, 0, 0.05);
+}
+
+
+.skill-title {
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    color: #0D1321;
+    
+}
+
+.skill-discription {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #0D1321;
+}
+
+.learn-more {
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 700;
 }
